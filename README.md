@@ -1,6 +1,6 @@
 # UltraCreepers
 This plugin makes that every creeper that spawns would be supercharged
-Y que tengan un corazon
+and they also have half a heart so they would die with 1 hit
 
 This is the damage of 1 creeper:
 
