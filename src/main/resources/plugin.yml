@@ -1,0 +1,4 @@
+name: UltraCreepers
+version: '0.1'
+main: dev.eychro.ultraCreepers.UltraCreepers
+api-version: '1.21'
